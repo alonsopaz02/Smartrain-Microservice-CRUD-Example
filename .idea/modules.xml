@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TAREAMIC.iml" filepath="$PROJECT_DIR$/.idea/TAREAMIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accesodatos/accesodatos.iml" filepath="$PROJECT_DIR$/accesodatos/accesodatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materiales/materiales.iml" filepath="$PROJECT_DIR$/materiales/materiales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebroker/servicebroker.iml" filepath="$PROJECT_DIR$/servicebroker/servicebroker.iml" />
+    </modules>
+  </component>
+</project>
